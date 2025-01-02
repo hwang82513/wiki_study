@@ -1,1 +1,1 @@
-VSCode를 이용한 깃과 깃헙연결
+study_note_wiki
